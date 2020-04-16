@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+
+  <!-- run node -->
+  <node pkg="mount_map_txt_pointcloud2" type="converter_txt_to_pointclou2" name="converter_to_pointclou2" output="screen"/>
+
+</launch>
+  
+  
